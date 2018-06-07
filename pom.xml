@@ -6,7 +6,7 @@
 
   <groupId>com.miao</groupId>
   <artifactId>mongo-page-helper</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
 
 
   <properties>
